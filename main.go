@@ -19,10 +19,10 @@ var index = `<!DOCTYPE html>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title></title>
-    <link rel="stylesheet" href="/index.css" >
+    <link rel="stylesheet" href="index.css" >
   </head>
   <body>
-    <script src="/index.js"></script>
+    <script src="index.js"></script>
     <script>require("main")</script>
   </body>
 </html>`
